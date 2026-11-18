@@ -18,7 +18,7 @@
 
 ```sh
 git init
-git add index.html style.css script.js availability.json README.md CHANGELOG.md
+git add index.html embed.html style.css script.js availability.json README.md CHANGELOG.md
 git commit -m "Add availability demo v0.1.0"
 git branch -M main
 git remote add origin <リポジトリのURL>
@@ -29,10 +29,10 @@ git push -u origin main
 
 ## WordPress 固定ページへの設置例
 
-公開先が決まってから HTML、CSS、JavaScript、JSON の4ファイルを同じ公開フォルダーに配置します。固定ページのカスタム HTML ブロックに例を入れ、パスと高さを実際の環境に合わせて調整します。
+照会部分だけの埋め込み用ページは `embed.html` です。既存の `index.html`、`style.css`、`script.js`、`availability.json` と同じフォルダーに置きます。GitHub に追加後、固定ページのカスタム HTML ブロックに次の例を入れ、高さを調整します。
 
 ```html
-<iframe src="/availability/index.html" title="貸会場の空き状況" width="100%" height="850" style="border:0" loading="lazy"></iframe>
+<iframe src="https://kmino52330-debug.github.io/callendar/embed.html" title="貸会場の空き状況" width="100%" height="850" style="border:0" loading="lazy"></iframe>
 ```
 
-固定の高さでは画面内にスクロールが発生します。スマートフォンとパソコンで操作できる高さを確認してください。WordPress の権限・設定によって iframe が除去される場合や、サーバーの設定によって埋め込みが拒否される場合があります。HTTPS、JSON の配信、更新時のキャッシュ、実際のページでの表示を公開前に確認してください。デモをそのまま本番データとして公開しないでください。
+GitHub Pages の反映には時間がかかる場合があります。表示内容はデモの架空データです。お申し込み方法と、表示は予約を保証しない旨の説明は WordPress 側に掲載してください。固定の高さでは画面内にスクロールが発生します。スマートフォンとパソコンで操作できる高さを確認してください。WordPress の権限・設定によって iframe が除去される場合や、サーバーの設定によって埋め込みが拒否される場合があります。HTTPS、JSON の配信、更新時のキャッシュ、実際のページでの表示を公開前に確認してください。デモをそのまま本番データとして公開しないでください。
