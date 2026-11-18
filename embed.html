@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>貸会場 空き状況 デモ</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css?v=0.2.2">
     <style>body{background:transparent}main{max-width:none;padding:0}.panel{margin:0}.embed-demo{margin:0 0 10px;color:#765217;font-size:.85rem}@media(max-width:520px){main{padding:0}}</style>
-    <script defer src="script.js">
+    <script defer src="script.js?v=0.2.2">
   </script>
 </head>
 <body>
@@ -17,8 +17,6 @@
         <button id="monthlyTab" aria-pressed="true">会場別・月間一覧</button>
         <button id="dailyTab" aria-pressed="false">日付別・全会場一覧</button>
       </div>
-      <p class="day-key">
-      <span class="day-saturday">土曜日</span>：青　<span class="day-holiday">日曜日・祝日</span>：赤</p>
       <p class="legend">
       <b>○</b> 空き　 <b>×</b> 予約済　 <b>△</b> 要確認　 <b>—</b> 休館／対象外</p>
       <p id="updated" aria-live="polite">読み込み中…</p>

@@ -151,13 +151,11 @@ footer {
     min-width:100%
   }
 }
-.day-saturday {
+tbody th.day-saturday,
+h2.day-saturday {
   color:#1758a1
 }
-.day-holiday {
+tbody th.day-holiday,
+h2.day-holiday {
   color:#b12e39
-}
-.day-key {
-  font-size:.85rem;
-  margin:18px 0 0
 }
