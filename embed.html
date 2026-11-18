@@ -1,2 +1,79 @@
 <!doctype html>
-<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>貸会場 空き状況 デモ</title><link rel="stylesheet" href="style.css"><style>body{background:transparent}main{max-width:none;padding:0}.panel{margin:0}.embed-demo{margin:0 0 10px;color:#765217;font-size:.85rem}@media(max-width:520px){main{padding:0}}</style><script defer src="script.js"></script></head><body><main><section class="panel"><p class="embed-demo">デモ版：表示内容はすべて架空のデータです。</p><div class="tabs"><button id="monthlyTab" aria-pressed="true">会場別・月間一覧</button><button id="dailyTab" aria-pressed="false">日付別・全会場一覧</button></div><p class="legend"><b>○</b> 空き　 <b>×</b> 予約済　 <b>△</b> 要確認　 <b>—</b> 休館／対象外</p><p id="updated" aria-live="polite">読み込み中…</p><p id="error" role="alert" hidden></p><div id="content" hidden><div id="monthly"><div class="controls"><label>会場<select id="venue"></select></label><label>表示する月<input type="month" id="month"></label></div><h2 id="monthTitle"></h2><div class="scroll"><table><thead><tr><th>日付</th><th>午前</th><th>午後</th><th>夜間</th></tr></thead><tbody id="monthBody"></tbody></table></div></div><div id="daily" hidden><div class="controls"><label>日付<input type="date" id="date"></label></div><h2 id="dateTitle"></h2><div class="scroll"><table><thead><tr><th>会場</th><th>午前</th><th>午後</th><th>夜間</th></tr></thead><tbody id="dateBody"></tbody></table></div></div></div></section></main></body></html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>貸会場 空き状況 デモ</title>
+    <link rel="stylesheet" href="style.css">
+    <style>body{background:transparent}main{max-width:none;padding:0}.panel{margin:0}.embed-demo{margin:0 0 10px;color:#765217;font-size:.85rem}@media(max-width:520px){main{padding:0}}</style>
+    <script defer src="script.js">
+  </script>
+</head>
+<body>
+  <main>
+    <section class="panel">
+      <p class="embed-demo">デモ版：表示内容はすべて架空のデータです。</p>
+      <div class="tabs">
+        <button id="monthlyTab" aria-pressed="true">会場別・月間一覧</button>
+        <button id="dailyTab" aria-pressed="false">日付別・全会場一覧</button>
+      </div>
+      <p class="day-key">
+      <span class="day-saturday">土曜日</span>：青　<span class="day-holiday">日曜日・祝日</span>：赤</p>
+      <p class="legend">
+      <b>○</b> 空き　 <b>×</b> 予約済　 <b>△</b> 要確認　 <b>—</b> 休館／対象外</p>
+      <p id="updated" aria-live="polite">読み込み中…</p>
+      <p id="error" role="alert" hidden>
+    </p>
+    <div id="content" hidden>
+      <div id="monthly">
+        <div class="controls">
+          <label>会場<select id="venue">
+          </select>
+        </label>
+        <label>表示する月<input type="month" id="month">
+        </label>
+      </div>
+      <h2 id="monthTitle">
+    </h2>
+    <div class="scroll">
+      <table>
+        <thead>
+          <tr>
+            <th>日付</th>
+            <th>午前</th>
+            <th>午後</th>
+            <th>夜間</th>
+          </tr>
+        </thead>
+        <tbody id="monthBody">
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <div id="daily" hidden>
+    <div class="controls">
+      <label>日付<input type="date" id="date">
+      </label>
+    </div>
+    <h2 id="dateTitle">
+  </h2>
+  <div class="scroll">
+    <table>
+      <thead>
+        <tr>
+          <th>会場</th>
+          <th>午前</th>
+          <th>午後</th>
+          <th>夜間</th>
+        </tr>
+      </thead>
+      <tbody id="dateBody">
+      </tbody>
+    </table>
+  </div>
+</div>
+</div>
+</section>
+</main>
+</body>
+</html>

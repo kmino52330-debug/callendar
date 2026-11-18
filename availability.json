@@ -2,20 +2,20 @@
   "updatedAt": "2026-11-18T14:00:00+09:00",
   "period": {
     "start": "2026-11-01",
-    "end": "2026-12-31"
+    "end": "2027-04-30"
   },
   "venues": [
     {
       "id": "large",
-      "name": "大会議室"
+      "name": "ラパスホール（7F）"
     },
     {
       "id": "small",
-      "name": "小会議室"
+      "name": "地下中会議室"
     },
     {
       "id": "hall",
-      "name": "多目的ホール"
+      "name": "地下小会議室"
     }
   ],
   "records": [
@@ -1665,6 +1665,3257 @@
         "afternoon": "check",
         "evening": "booked"
       }
+    },
+    {
+      "date": "2027-01-01",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-01",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-01",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-02",
+      "venueId": "large",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-01-02",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-02",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-03",
+      "venueId": "large",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-01-03",
+      "venueId": "small",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-01-03",
+      "venueId": "hall",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-01-04",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-04",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-04",
+      "venueId": "hall",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-01-05",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-05",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-05",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-06",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-06",
+      "venueId": "small",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-01-06",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-07",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-07",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-07",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-08",
+      "venueId": "large",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-01-08",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-08",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-09",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-09",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-09",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-10",
+      "venueId": "large",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-01-10",
+      "venueId": "small",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-01-10",
+      "venueId": "hall",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-01-11",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-11",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-11",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-12",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-12",
+      "venueId": "small",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-01-12",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-13",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-13",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-13",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-14",
+      "venueId": "large",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-01-14",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-14",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-15",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-15",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-15",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-16",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-16",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-16",
+      "venueId": "hall",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-01-17",
+      "venueId": "large",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-01-17",
+      "venueId": "small",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-01-17",
+      "venueId": "hall",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-01-18",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-18",
+      "venueId": "small",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-01-18",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-19",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-19",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-19",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-20",
+      "venueId": "large",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-01-20",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-20",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-21",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-21",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-21",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-22",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-22",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-22",
+      "venueId": "hall",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-01-23",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-23",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-23",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-24",
+      "venueId": "large",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-01-24",
+      "venueId": "small",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-01-24",
+      "venueId": "hall",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-01-25",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-25",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-25",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-26",
+      "venueId": "large",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-01-26",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-26",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-27",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-27",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-27",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-28",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-28",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-28",
+      "venueId": "hall",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-01-29",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-29",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-01-29",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-30",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-30",
+      "venueId": "small",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-01-30",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-01-31",
+      "venueId": "large",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-01-31",
+      "venueId": "small",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-01-31",
+      "venueId": "hall",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-02-01",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-01",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-01",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-02",
+      "venueId": "large",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-02-02",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-02",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-03",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-03",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-03",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-04",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-04",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-04",
+      "venueId": "hall",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-02-05",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-05",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-05",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-06",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-06",
+      "venueId": "small",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-02-06",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-07",
+      "venueId": "large",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-02-07",
+      "venueId": "small",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-02-07",
+      "venueId": "hall",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-02-08",
+      "venueId": "large",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-02-08",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-08",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-09",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-09",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-09",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-10",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-10",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-10",
+      "venueId": "hall",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-02-11",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-11",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-11",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-12",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-12",
+      "venueId": "small",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-02-12",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-13",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-13",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-13",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-14",
+      "venueId": "large",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-02-14",
+      "venueId": "small",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-02-14",
+      "venueId": "hall",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-02-15",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-15",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-15",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-16",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-16",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-16",
+      "venueId": "hall",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-02-17",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-17",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-17",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-18",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-18",
+      "venueId": "small",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-02-18",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-19",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-19",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-19",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-20",
+      "venueId": "large",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-02-20",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-20",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-21",
+      "venueId": "large",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-02-21",
+      "venueId": "small",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-02-21",
+      "venueId": "hall",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-02-22",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-22",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-22",
+      "venueId": "hall",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-02-23",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-23",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-23",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-24",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-24",
+      "venueId": "small",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-02-24",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-25",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-25",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-25",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-26",
+      "venueId": "large",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-02-26",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-26",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-27",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-02-27",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-27",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-02-28",
+      "venueId": "large",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-02-28",
+      "venueId": "small",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-02-28",
+      "venueId": "hall",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-03-01",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-01",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-01",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-02",
+      "venueId": "large",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-03-02",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-02",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-03",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-03",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-03",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-04",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-04",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-04",
+      "venueId": "hall",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-03-05",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-05",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-05",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-06",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-06",
+      "venueId": "small",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-03-06",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-07",
+      "venueId": "large",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-03-07",
+      "venueId": "small",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-03-07",
+      "venueId": "hall",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-03-08",
+      "venueId": "large",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-03-08",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-08",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-09",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-09",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-09",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-10",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-10",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-10",
+      "venueId": "hall",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-03-11",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-11",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-11",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-12",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-12",
+      "venueId": "small",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-03-12",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-13",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-13",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-13",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-14",
+      "venueId": "large",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-03-14",
+      "venueId": "small",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-03-14",
+      "venueId": "hall",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-03-15",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-15",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-15",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-16",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-16",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-16",
+      "venueId": "hall",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-03-17",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-17",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-17",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-18",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-18",
+      "venueId": "small",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-03-18",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-19",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-19",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-19",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-20",
+      "venueId": "large",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-03-20",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-20",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-21",
+      "venueId": "large",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-03-21",
+      "venueId": "small",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-03-21",
+      "venueId": "hall",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-03-22",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-22",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-22",
+      "venueId": "hall",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-03-23",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-23",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-23",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-24",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-24",
+      "venueId": "small",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-03-24",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-25",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-25",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-25",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-26",
+      "venueId": "large",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-03-26",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-26",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-27",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-27",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-27",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-28",
+      "venueId": "large",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-03-28",
+      "venueId": "small",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-03-28",
+      "venueId": "hall",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-03-29",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-29",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-29",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-30",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-30",
+      "venueId": "small",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-03-30",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-31",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-03-31",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-03-31",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-01",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-01",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-01",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-02",
+      "venueId": "large",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-04-02",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-02",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-03",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-03",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-03",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-04",
+      "venueId": "large",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-04-04",
+      "venueId": "small",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-04-04",
+      "venueId": "hall",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-04-05",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-05",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-05",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-06",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-06",
+      "venueId": "small",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-04-06",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-07",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-07",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-07",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-08",
+      "venueId": "large",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-04-08",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-08",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-09",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-09",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-09",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-10",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-10",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-10",
+      "venueId": "hall",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-04-11",
+      "venueId": "large",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-04-11",
+      "venueId": "small",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-04-11",
+      "venueId": "hall",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-04-12",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-12",
+      "venueId": "small",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-04-12",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-13",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-13",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-13",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-14",
+      "venueId": "large",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-04-14",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-14",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-15",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-15",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-15",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-16",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-16",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-16",
+      "venueId": "hall",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-04-17",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-17",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-17",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-18",
+      "venueId": "large",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-04-18",
+      "venueId": "small",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-04-18",
+      "venueId": "hall",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-04-19",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-19",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-19",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-20",
+      "venueId": "large",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-04-20",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-20",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-21",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-21",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-21",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-22",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-22",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-22",
+      "venueId": "hall",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-04-23",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-23",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-23",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-24",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-24",
+      "venueId": "small",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-04-24",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-25",
+      "venueId": "large",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-04-25",
+      "venueId": "small",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-04-25",
+      "venueId": "hall",
+      "slots": {
+        "morning": "closed",
+        "afternoon": "closed",
+        "evening": "closed"
+      }
+    },
+    {
+      "date": "2027-04-26",
+      "venueId": "large",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-04-26",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-26",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-27",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-27",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-27",
+      "venueId": "hall",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-28",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-28",
+      "venueId": "small",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-28",
+      "venueId": "hall",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-04-29",
+      "venueId": "large",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "check",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-29",
+      "venueId": "small",
+      "slots": {
+        "morning": "booked",
+        "afternoon": "available",
+        "evening": "booked"
+      }
+    },
+    {
+      "date": "2027-04-29",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-30",
+      "venueId": "large",
+      "slots": {
+        "morning": "available",
+        "afternoon": "available",
+        "evening": "available"
+      }
+    },
+    {
+      "date": "2027-04-30",
+      "venueId": "small",
+      "slots": {
+        "morning": "check",
+        "afternoon": "booked",
+        "evening": "check"
+      }
+    },
+    {
+      "date": "2027-04-30",
+      "venueId": "hall",
+      "slots": {
+        "morning": "available",
+        "afternoon": "booked",
+        "evening": "available"
+      }
     }
+  ],
+  "holidays": [
+    "2026-11-03",
+    "2026-11-23",
+    "2027-01-01",
+    "2027-01-11",
+    "2027-02-11",
+    "2027-02-23",
+    "2027-03-21",
+    "2027-03-22",
+    "2027-04-29"
   ]
 }
